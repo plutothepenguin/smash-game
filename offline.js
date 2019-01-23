@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548276382,
+	"version": 1548277297,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -62,6 +62,8 @@
 		"images/particles4.png",
 		"media/roblox_death_sound_effect.m4a",
 		"media/roblox_death_sound_effect.ogg",
+		"media/way_of_the_sword.m4a",
+		"media/way_of_the_sword.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
